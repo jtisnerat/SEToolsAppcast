@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SE-Tools Changelog</title>
+    <link>https://raw.githubusercontent.com/jtisnerat/SEToolsAppcast/main/appcast.xml</link>
+    <description>Update feed for SE-Tools. Version metadata and release notes only — the signed .zip stays in the private releases repo.</description>
+    <language>en</language>
+    <!--
+      Add one <item> per release here. The enclosure's url must be the GitHub
+      REST API asset URL (https://api.github.com/repos/<owner>/SE-Tool-Releases/releases/assets/<id>),
+      not browser_download_url — only the API URL honors the Bearer token
+      SE-Tools attaches in AppUpdater.willDownloadUpdate. See the "Releasing a
+      new version" section of the SETools-Mac README for the full process.
+    -->
+  </channel>
+</rss>
