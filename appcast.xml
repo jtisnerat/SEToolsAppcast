@@ -12,5 +12,24 @@
       SE-Tools attaches in AppUpdater.willDownloadUpdate. See the "Releasing a
       new version" section of the SETools-Mac README for the full process.
     -->
+    <item>
+      <title>Version 3.1.2</title>
+      <sparkle:version>3.1.2</sparkle:version>
+      <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
+      <pubDate>Wed, 02 Sep 2026 13:31:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li>New app icon — official Equinix Dark-Purple/Maroon/Red gradient and hex-grid texture, with a white Fortress glyph. Reads clearly at Dock size instead of blurring into a dark square.</li>
+          <li>The welcome screen now advances on its own after 2 seconds instead of waiting for a "Get started" click.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/541082226"
+                 sparkle:version="3.1.2"
+                 sparkle:shortVersionString="3.1.2"
+                 sparkle:edSignature="L9gWZju6VNWUZWO0P36/rA+YBHvtD3OgogcUM+flmH1Y2Oc5Yu3Ku2MwhdB/FXea4XwcKLI3iSz1aOJc0aTSCg=="
+                 length="6040456"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
