@@ -13,6 +13,23 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.12.0</title>
+      <sparkle:version>3.12.0</sparkle:version>
+      <sparkle:shortVersionString>3.12.0</sparkle:shortVersionString>
+      <pubDate>Wed, 07 Oct 2026 10:21:04 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Price lists are valid for one month</b> — A price list now counts for the month it was imported in. From the 1st of the next month the Cage Calculator no longer prices from it and the NRR mail is locked, until the current list is imported — so no quote goes out on last month&#x27;s prices. The chips and Settings show &quot;Valid until&quot; and flag expired lists in red.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/618333804"
+                 sparkle:version="3.12.0"
+                 sparkle:shortVersionString="3.12.0"
+                 sparkle:edSignature="7KBCxthYaKZiiMdFxZrOuZ+6FVBiVNwck61+e9CBq1bp+T8Uh7K/9qr6tBtWeTBOuPozJuajtY8W0f17xiGpDQ==" length="8867662"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.1.2</title>
       <sparkle:version>3.1.2</sparkle:version>
       <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
