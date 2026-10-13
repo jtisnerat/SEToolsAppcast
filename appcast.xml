@@ -13,6 +13,23 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.18.1</title>
+      <sparkle:version>3.18.1</sparkle:version>
+      <sparkle:shortVersionString>3.18.1</sparkle:shortVersionString>
+      <pubDate>Tue, 13 Oct 2026 10:49:21 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Test accounts without AD</b> — An admin can give an account its own password in the permissions file — for demos and testing, without a directory account or the VPN. It shows in User Admin like anyone else and can be blocked there at any time.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/636727894"
+                 sparkle:version="3.18.1"
+                 sparkle:shortVersionString="3.18.1"
+                 sparkle:edSignature="o956SR7jJEar65i7lhhj/njPUliH9p4I64hD4XcwsTfz3eg9iX5Sf3AtihVkQUYNYvCk2VasQHWJj/SyB/RWAg==" length="10696765"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.12.0</title>
       <sparkle:version>3.12.0</sparkle:version>
       <sparkle:shortVersionString>3.12.0</sparkle:shortVersionString>
