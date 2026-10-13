@@ -13,6 +13,28 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.19.0</title>
+      <sparkle:version>3.19.0</sparkle:version>
+      <sparkle:shortVersionString>3.19.0</sparkle:shortVersionString>
+      <pubDate>Tue, 13 Oct 2026 19:21:35 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Your team&#x27;s AE / SolEng Mapping</b> — The mapping now shows your own team&#x27;s AEs, SEs and SAs, and it&#x27;s the same for everyone: changes reach every colleague at once instead of living on each Mac. Search and the AE field in a project use it too.</li>
+          <li><b>Ask to join a team</b> — Not in a team yet? The AE / SolEng Mapping says so and lets you ask to join one — the admins are told right away.</li>
+          <li><b>Announcements</b> — News such as a new price list or a change in process shows above the tools for a while. Close one with × and it stays closed.</li>
+          <li><b>Usage statistics, with a switch</b> — SE Tools counts which tools you open and how many quotes and mails you make — never what&#x27;s in them — and shares the counts with the admins once a day. Turn it off in Settings → Usage statistics; your shared counts are removed then.</li>
+          <li><b>Calmer motion</b> — Copy confirmations come and go more quickly, results no longer wobble while you type, and large numbers keep their width. With Reduce Motion on, slides become gentle fades.</li>
+          <li><b>Clicks next to the sidebar</b> — A click just right of the folded sidebar — e.g. on &quot;7 days&quot; — no longer opens a tool from the hidden part of the sidebar.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/638012190"
+                 sparkle:version="3.19.0"
+                 sparkle:shortVersionString="3.19.0"
+                 sparkle:edSignature="mLNdZ20Qt6XJsqmHY1uSgtQAIUZla/NQe5etuS0XSGX6+NaOXkHqKljSQe2J2qBheoCVyOARG77INfTYksaeDg==" length="11245356"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.18.2</title>
       <sparkle:version>3.18.2</sparkle:version>
       <sparkle:shortVersionString>3.18.2</sparkle:shortVersionString>
