@@ -13,6 +13,31 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.20.0</title>
+      <sparkle:version>3.20.0</sparkle:version>
+      <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
+      <pubDate>Thu, 15 Oct 2026 10:10:27 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Rows and new cages in the Cage Designer</b> — Add whole rows in pairs across a cold aisle of ventilation plates, or start a new cage from its racks — it&#x27;s drawn around them on the 60 cm grid.</li>
+          <li><b>Rack types, sizes and numbers</b> — Mark racks as server, network, storage, GPU, ODF or in-row unit, and set width, depth and height. Racks are numbered per row (0101 …), and letters and numbers along the cage name every tile.</li>
+          <li><b>Aisle and door checks</b> — The plan marks racks with too little room in front or behind, racks in a door&#x27;s swing and racks outside the cage. Set the aisle widths or switch the checks off.</li>
+          <li><b>Duplicate, copy and paste</b> — ⌘D puts a copy of the selected racks and plates beside them, off the ventilation plates; ⌘C and ⌘V copy and paste.</li>
+          <li><b>Obstacles and notes</b> — Draw columns, CRACs or zones to keep free — racks can&#x27;t stand there and the checks count them. Notes put short text on the plan; both show in the export.</li>
+          <li><b>Several custom parts in the Cage NRR</b> — Add as many custom parts as needed, each with a description and its PDF. The NRR warns when a PDF is missing.</li>
+          <li><b>Better defaults in the Cage NRR</b> — Air containment, access control and CCTV are on from the start, fiber 6in and copper 12in trays preselected. The racks step takes the rack count, width and CabE over from the Cage Designer.</li>
+          <li><b>Space types in the VDC Explorer</b> — A new column shows Secure Cab, Secure Cab Express or Cage; filter by All · Cages · Cabinets. Cages are rows you can open, named IBX:floor:cage.</li>
+          <li><b>A disk image to pass on</b> — Each release also comes as a disk image: open it and drag SE Tools to Applications — reliable when passed on over Teams or OneDrive.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/643456989"
+                 sparkle:version="3.20.0"
+                 sparkle:shortVersionString="3.20.0"
+                 sparkle:edSignature="BbfpYD7kWVcXwF/4otCTsDHECbS33bbu4PyVXe19Z4s0tPiRCV+FLCo/kjyGiyPzpo+8KkpqDytbB4N+ruuVAA==" length="11775290"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.19.0</title>
       <sparkle:version>3.19.0</sparkle:version>
       <sparkle:shortVersionString>3.19.0</sparkle:shortVersionString>
