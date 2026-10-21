@@ -13,6 +13,29 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.22.0</title>
+      <sparkle:version>3.22.0</sparkle:version>
+      <sparkle:shortVersionString>3.22.0</sparkle:shortVersionString>
+      <pubDate>Wed, 21 Oct 2026 09:55:57 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>CCTV cameras on the plan</b> — Place cameras anywhere on the cage plan. Each shows what it sees, stopped by the walls, racks and columns; turn it by its handle. A check flags doors no camera covers.</li>
+          <li><b>A reader at every door</b> — Every cage door gets a Suprema BioLite N2 fingerprint reader outside, right of the door – on the plan, in the layout PDF and in 3D. Switch it off per door.</li>
+          <li><b>Secure and Fortress in 3D</b> — The 3D view and the PDF show the cage type from the Cage NRR: Secure walls reach the ceiling and down through the raised floor; Fortress walls are solid up to 2.4 m with mesh above.</li>
+          <li><b>Raised floor in 3D</b> — The cage stands on a raised floor with 60 × 60 cm tiles on the plan&#x27;s grid, cut open at the edge so the space below shows.</li>
+          <li><b>See what the cameras see</b> — A Cameras switch in 3D shows each camera&#x27;s view as a blue cone. The 3D switches now line up.</li>
+          <li><b>Leave a price out of a diagram</b> — Take a product&#x27;s price out of the diagram&#x27;s bill without removing it from the drawing; it&#x27;s listed below the total and can be brought back. The copy and the PDF follow.</li>
+          <li><b>Diagram fixes</b> — A project&#x27;s space no longer overwrites site 1&#x27;s own label, and changing a link&#x27;s bandwidth updates its price.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/662060630"
+                 sparkle:version="3.22.0"
+                 sparkle:shortVersionString="3.22.0"
+                 sparkle:edSignature="njjjvGvmO2m4XEJUmUj1bI5Y5CF8t6p/zyhFoKlVvTYP+9lg9rK+kXOv0sP5XrBshtsn+x6tlMD+rZ+c97qgDQ==" length="13304059"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.20.0</title>
       <sparkle:version>3.20.0</sparkle:version>
       <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
