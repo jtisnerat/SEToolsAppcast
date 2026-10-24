@@ -13,6 +13,23 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.23.1</title>
+      <sparkle:version>3.23.1</sparkle:version>
+      <sparkle:shortVersionString>3.23.1</sparkle:shortVersionString>
+      <pubDate>Sat, 24 Oct 2026 11:50:51 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Smooth 3D, even on big cages</b> — Turning and zooming the cage in 3D no longer rebuilds it, and selecting something only lights it up. Large cages with many racks and trays stay fluid.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/672141478"
+                 sparkle:version="3.23.1"
+                 sparkle:shortVersionString="3.23.1"
+                 sparkle:edSignature="qAk8KuRjnto8gvZreZdDAMgCDGoJZJUPAQPMxugXpq73+/ZukUOGA0uSZjN2EgmgGrmYv3HD810fi8Ys986ODA==" length="13973363"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.23.0</title>
       <sparkle:version>3.23.0</sparkle:version>
       <sparkle:shortVersionString>3.23.0</sparkle:shortVersionString>
