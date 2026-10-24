@@ -13,6 +13,29 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.23.0</title>
+      <sparkle:version>3.23.0</sparkle:version>
+      <sparkle:shortVersionString>3.23.0</sparkle:shortVersionString>
+      <pubDate>Sat, 24 Oct 2026 11:32:03 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Select anything, move it together</b> — In the Cage Designer, ⇧-click, a dragged frame or ⌘A take in racks, trays, doors, cameras, columns, notes and measurements. Drag or use the arrow keys to move them as one; duplicate, copy and delete work for every kind.</li>
+          <li><b>A tidier inspector</b> — Every object shows its settings the same way: labelled rows, one hint, and Duplicate, Rotate and Delete in the same places. Straight or ring trays are picked there too.</li>
+          <li><b>Undo that keeps up</b> — Undo keeps its history when you switch tools and takes back patch panels, tray sizes and cabinets too. Quick edits to different things stay separate steps.</li>
+          <li><b>Print and cleaner exports</b> — ⌘P prints the layout. Exports leave out the check markers and show the grid labels as set, and a file that can&#x27;t be written says why.</li>
+          <li><b>Safer layouts</b> — One damaged item no longer costs the whole layout, a door that no longer fits its wall is flagged and can be moved, and importing over your own work asks first.</li>
+          <li><b>Quicker on big cages</b> — Checks and camera views are worked out once per change, and dragging no longer redraws everything else.</li>
+          <li><b>Tour and menu</b> — The tour now shows cameras and readers, and the Layout menu lists undo, copy, paste, import, add rows and print.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/672099167"
+                 sparkle:version="3.23.0"
+                 sparkle:shortVersionString="3.23.0"
+                 sparkle:edSignature="V/14FWKtALUAUc/i3cHw8yag+jB393oBkq2LVe7Rrfc1LcoFqrxolgUUpd1FzDLxjdr8QzGeWLAQ/Dg8/TNHDA==" length="13949423"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.22.4</title>
       <sparkle:version>3.22.4</sparkle:version>
       <sparkle:shortVersionString>3.22.4</sparkle:shortVersionString>
