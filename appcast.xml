@@ -13,6 +13,26 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.25.0</title>
+      <sparkle:version>3.25.0</sparkle:version>
+      <sparkle:shortVersionString>3.25.0</sparkle:shortVersionString>
+      <pubDate>Fri, 30 Oct 2026 14:31:33 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Hot aisle cages</b> — Choose Hot aisle when a layout is made: rows stand back to back on a concrete floor, with a chimney up to the ceiling. Cold aisle stays the default.</li>
+          <li><b>One currency in the PDF</b> — Show every price in one currency you choose. Other currencies are converted at the ECB reference rate, and the PDF names its date.</li>
+          <li><b>Diagram without a white box</b> — The diagram in the priced PDF sits on its card, with no white box behind the clouds.</li>
+          <li><b>No monthly total at the top</b> — The design page&#x27;s header no longer shows a monthly total. The sums stand under the bill.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/692371949"
+                 sparkle:version="3.25.0"
+                 sparkle:shortVersionString="3.25.0"
+                 sparkle:edSignature="bDXk3a9qmUZLg+p8rbRB+hBCg4I66e1qbREsBxnlUrhyQ1EQunjPut4L1upaAQ9It+tKdzt0RN0fnKttDk7JAA==" length="14982189"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.24.0</title>
       <sparkle:version>3.24.0</sparkle:version>
       <sparkle:shortVersionString>3.24.0</sparkle:shortVersionString>
