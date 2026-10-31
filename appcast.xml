@@ -13,6 +13,27 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.26.0</title>
+      <sparkle:version>3.26.0</sparkle:version>
+      <sparkle:shortVersionString>3.26.0</sparkle:shortVersionString>
+      <pubDate>Sat, 31 Oct 2026 18:24:33 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Equinix brand look</b> — The app follows the Equinix Brand Center: Nexa Text throughout, colours from the brand palette, and red text that stays readable on the dark background.</li>
+          <li><b>Official Equinix logo in PDFs</b> — NRR, cage layout, Fabric and diagram PDFs carry the official logo instead of a typed name, and the Fortress keeps its ® mark.</li>
+          <li><b>PDFs in Nexa Text</b> — Every PDF is set in Nexa Text with the font embedded, so it looks the same on any computer.</li>
+          <li><b>Mails in Arial</b> — Mails use Arial and brand colours, as the brand asks for mail, so they look right in every inbox.</li>
+          <li><b>Drop-downs show the whole name</b> — Drop-downs widen for a longer name instead of cutting it off, such as the rack type in the Cage Designer.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/696136565"
+                 sparkle:version="3.26.0"
+                 sparkle:shortVersionString="3.26.0"
+                 sparkle:edSignature="fcVSFFvGeIU4kYBC8iCJX2XqAidM2sacZmZk4FGHCwueRtF421i2D6UnGVth+mn/ZoBcMVbIvzFXCi2adIk5BA==" length="15228590"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.25.0</title>
       <sparkle:version>3.25.0</sparkle:version>
       <sparkle:shortVersionString>3.25.0</sparkle:shortVersionString>
