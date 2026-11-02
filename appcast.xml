@@ -13,6 +13,27 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.26.2</title>
+      <sparkle:version>3.26.2</sparkle:version>
+      <sparkle:shortVersionString>3.26.2</sparkle:shortVersionString>
+      <pubDate>Mon, 02 Nov 2026 16:06:28 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Metro Connect: FMC or OMC</b> — Pick the speed and platform together: 1 Gbps is FMC, 100 Gbps is OMC, and 10 Gbps is either. OMC is Dual-Diverse or Unprotected and is priced; FMC is always Protected.</li>
+          <li><b>EIAoD port and bandwidth</b> — Internet Access on a dedicated port (EIAoD) takes a port of 1, 10 or 100 Gbps and a committed bandwidth up to it. EIA over Fabric is now EIAoF, and a larger extra IPv4 block on VRRP replaces the shared /29.</li>
+          <li><b>Tidier diagram layout</b> — Each column of tiles stacks on its own, a one-column site stays narrow, and lines never run through a tile. Metro Connect tiles show their speed, platform and protection.</li>
+          <li><b>Full service list without prices</b> — The diagram PDF without prices lists every service under Services, including the ones that aren&#x27;t priced.</li>
+          <li><b>Clearer form</b> — Every picker has a label, disabled buttons say why, and ⌘E shows when it is waiting for prices.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/702332424"
+                 sparkle:version="3.26.2"
+                 sparkle:shortVersionString="3.26.2"
+                 sparkle:edSignature="jaqCJyz/xvWNuoke4fsokhiq7l/YhwpUhJiPoBVCi/714YrerRtTJQIefDSIQU8hlKWEBir/OOyib1AcM2XzDg==" length="15341112"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.26.0</title>
       <sparkle:version>3.26.0</sparkle:version>
       <sparkle:shortVersionString>3.26.0</sparkle:shortVersionString>
