@@ -13,6 +13,24 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.27.1</title>
+      <sparkle:version>3.27.1</sparkle:version>
+      <sparkle:shortVersionString>3.27.1</sparkle:shortVersionString>
+      <pubDate>Wed, 04 Nov 2026 15:38:28 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Tidier NRR cards</b> — Every card in the NRR PDF follows the same layout: icon and title, owner and price, then the scope. Titles are no longer cut off, and icons and lines sit in the same place on every card.</li>
+          <li><b>Pre-Sale sites in the IBX Finder</b> — The sync with VDC now also lists sites in Pre-Sale, such as IL3 in Istanbul.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/710007232"
+                 sparkle:version="3.27.1"
+                 sparkle:shortVersionString="3.27.1"
+                 sparkle:edSignature="250dybYdcQExuA6jj4WvNqNAKitgyy84QLLrAPZn3sx6sdAgWzNPN178xlMdXJW6FLTNDDxNfnaqfWy97VxtAQ==" length="15793353"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.27.0</title>
       <sparkle:version>3.27.0</sparkle:version>
       <sparkle:shortVersionString>3.27.0</sparkle:shortVersionString>
