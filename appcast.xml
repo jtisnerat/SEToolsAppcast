@@ -13,6 +13,30 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.27.0</title>
+      <sparkle:version>3.27.0</sparkle:version>
+      <sparkle:shortVersionString>3.27.0</sparkle:shortVersionString>
+      <pubDate>Wed, 04 Nov 2026 08:27:33 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Build Auto Tray</b> — One click lays a tray round each rack block, at its outer edge in the standard size, and links the blocks. It replaces the trays of that kind; ⌘Z brings them back.</li>
+          <li><b>One tray tool</b> — Fiber and copper share one tool: F, C, or B for both at once on the same route. Kind, shape and size are in the sidebar, and trays settle at the outer edge of the racks.</li>
+          <li><b>Edit trays on the plan</b> — Drag a corner or a side, add a corner, split a tray, join two, or delete one run. Trays also snap to the rack lines and to each other&#x27;s ends.</li>
+          <li><b>Cage walls by hand</b> — Drag any corner or wall, slanted VDC walls too. Racks stop a wall, and ⌘ moves it anyway. Drag a rectangle or click the corners one by one to draw a cage.</li>
+          <li><b>Placing racks</b> — The rack tool shows a preview with the reason when it can&#x27;t go there, and rows of mixed depths count as one row. Line up, Close up and turning a group keep rows together.</li>
+          <li><b>Copy, cut and paste</b> — ⌘V pastes at the pointer, ⌘X cuts, and ⌥-drag drags a copy of what you grab. Duplicates sit tight against the original.</li>
+          <li><b>Calmer editing</b> — One drag is one undo step, Esc cancels it, and a blocked move says why. The sidebar shows only the active tool&#x27;s options.</li>
+          <li><b>Shorter NRR mail</b> — The mail sheet no longer asks again what Extras already covers; the mail and PDF still list it.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/708802935"
+                 sparkle:version="3.27.0"
+                 sparkle:shortVersionString="3.27.0"
+                 sparkle:edSignature="2AztXgg7FZDf/cZUlULYNxIc700ndLIZ3LOdF5Uywl5+7YKiehBEGCdfjWC/BrENOHHbyx4zj0bbzKPF1rTqAw==" length="15793269"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.26.2</title>
       <sparkle:version>3.26.2</sparkle:version>
       <sparkle:shortVersionString>3.26.2</sparkle:shortVersionString>
