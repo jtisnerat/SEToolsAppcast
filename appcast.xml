@@ -13,6 +13,29 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.28.0</title>
+      <sparkle:version>3.28.0</sparkle:version>
+      <sparkle:shortVersionString>3.28.0</sparkle:shortVersionString>
+      <pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>AMER and APAC price lists</b> — Import the AMER and APAC price lists next to EMEA. The Cage NRR picks the list from the project&#x27;s IBX, offers only that region&#x27;s sites and says which list is missing. Both are in Beta.</li>
+          <li><b>Power in the Cage Designer</b> — Racks show their circuits behind them on the plan, shared out from the Cage NRR, and the 3D view shows sockets with their rails or busbars. The PDF legend names each circuit, and the checks warn when the plan and the NRR differ.</li>
+          <li><b>Price lists on SharePoint</b> — Open each price list on SharePoint from Settings or the Cage NRR. Settings fold the lists to whether they&#x27;re up to date, and the window uses more of the screen.</li>
+          <li><b>VDC number in the NRR mail</b> — The NRR mail shows the project&#x27;s VDC number with a green Approved or orange WIP pill.</li>
+          <li><b>Middle-drag to move</b> — Move around the Cage Designer plan with the middle mouse button.</li>
+          <li><b>Softer page headers</b> — Pages scroll under their title with the Liquid Glass edge instead of a hard cut.</li>
+          <li><b>Safer price list import</b> — Importing the APAC list no longer replaces the EMEA list.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/726724619"
+                 sparkle:version="3.28.0"
+                 sparkle:shortVersionString="3.28.0"
+                 sparkle:edSignature="zkmc87xUIc69AucEgJFRoV4RxDCHmfZZFV76TEeb5QgvCYZv5XzOfsr9hPKE8ZI8qko7tL1RNTRqGC/K67qEAA==" length="15710238"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.27.1</title>
       <sparkle:version>3.27.1</sparkle:version>
       <sparkle:shortVersionString>3.27.1</sparkle:shortVersionString>
