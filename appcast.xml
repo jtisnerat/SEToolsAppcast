@@ -13,6 +13,29 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.28.2</title>
+      <sparkle:version>3.28.2</sparkle:version>
+      <sparkle:shortVersionString>3.28.2</sparkle:shortVersionString>
+      <pubDate>Tue, 10 Nov 2026 17:44:08 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>One switch for EMEA, AMER and APAC</b> — Switch the region in the Cage NRR, kVA Calculator and Network Edge Finder. The choice applies to every tool and survives a restart. With a project open, the Cage NRR shows the project&#x27;s region and the switch is locked.</li>
+          <li><b>kVA Calculator for every region</b> — The kVA Calculator knows the standard circuits for AMER, Australia and Japan, in Beta. It sizes each feed against the usable kVA, and A+B feeds are on by default.</li>
+          <li><b>Per Rack counts circuits per feed</b> — With A+B feeds on, the circuits per feed no longer double the cage power.</li>
+          <li><b>Decimal kVA entries</b> — Values like 0.125 and 4.125 kVA are read as decimals, not as 125 or 4125.</li>
+          <li><b>Mapping loads from the shared file</b> — The AE / SolEng Mapping shows a loading, error or empty state instead of a built-in list of names.</li>
+          <li><b>Price 0 makes a line free</b> — In the Cage NRR a line priced 0 is free. Leave the field empty to use the calculated price again.</li>
+          <li><b>Project files that can&#x27;t be read</b> — The home page says when a project file can&#x27;t be read or a save fails, instead of a project disappearing from the list.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/732362536"
+                 sparkle:version="3.28.2"
+                 sparkle:shortVersionString="3.28.2"
+                 sparkle:edSignature="gUOKaISPdPmEIp27ErzhWyYsBw6j3Tq6HM/utcNq34DhwskuxGz744j/cYtqb4MJ21ctUnjZriCAe5LdTxz/DA==" length="15546224"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.28.1</title>
       <sparkle:version>3.28.1</sparkle:version>
       <sparkle:shortVersionString>3.28.1</sparkle:shortVersionString>
