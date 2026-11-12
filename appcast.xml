@@ -13,6 +13,24 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.29.0</title>
+      <sparkle:version>3.29.0</sparkle:version>
+      <sparkle:shortVersionString>3.29.0</sparkle:shortVersionString>
+      <pubDate>Thu, 12 Nov 2026 10:54:39 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Cage walls from rectangles</b> — Drag a rectangle with the wall tool to add it to the cage, or hold ⌥ to cut it out. L shapes, steps and niches take one or two drags, and doors stay where they stand.</li>
+          <li><b>Cage Designer without Beta</b> — The Cage Designer drops its Beta label. The Diagram Builder stays in Beta.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/739122710"
+                 sparkle:version="3.29.0"
+                 sparkle:shortVersionString="3.29.0"
+                 sparkle:edSignature="HigkJuQiRwtGtS57Wi2cHqMSrCWNGpN2bed1l9A00olloGt/eP6PAtHReW+ZDzwWymg5Bg7GLocg3CAp61FrCg==" length="15548159"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.28.2</title>
       <sparkle:version>3.28.2</sparkle:version>
       <sparkle:shortVersionString>3.28.2</sparkle:shortVersionString>
