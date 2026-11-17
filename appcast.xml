@@ -13,6 +13,29 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.30.1</title>
+      <sparkle:version>3.30.1</sparkle:version>
+      <sparkle:shortVersionString>3.30.1</sparkle:shortVersionString>
+      <pubDate>Tue, 17 Nov 2026 13:56:19 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Two rack types</b> — Racks are either Equinix Provided or Customer Provided. Older layouts open with their racks as Customer Provided.</li>
+          <li><b>Cabinet height from the NRR</b> — The cabinet picked in the Cage NRR sets the height of new Equinix racks in the Cage Designer.</li>
+          <li><b>Select all by tool</b> — ⌘A in the Cage Designer selects what the active tool works on, for example only trays in the tray tool.</li>
+          <li><b>VDC status from VDC</b> — A project&#x27;s VDC status always comes from its linked VDC request and is no longer set by hand.</li>
+          <li><b>Sort the VDC Explorer</b> — Every column in the VDC Explorer sorts ascending or descending.</li>
+          <li><b>One tray for a single row</b> — A single rack row gets one cable tray run at the rear.</li>
+          <li><b>Loading a whole metro</b> — Loading all IBXs of a metro in the VDC Explorer no longer crashes.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/759267705"
+                 sparkle:version="3.30.1"
+                 sparkle:shortVersionString="3.30.1"
+                 sparkle:edSignature="Cgd2aXMQHmvxOb7T2xfIkSdYJZJERfWhdsr+hU2HzatyYXat+k3bAE5jGDcPwZWdrhXQWvaWJKdpx5Bvozd0Dw==" length="16537210"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.30.0</title>
       <sparkle:version>3.30.0</sparkle:version>
       <sparkle:shortVersionString>3.30.0</sparkle:shortVersionString>
