@@ -13,6 +13,28 @@
       new version" section of the SETools-Mac README for the full process.
     -->
     <item>
+      <title>Version 3.31.0</title>
+      <sparkle:version>3.31.0</sparkle:version>
+      <sparkle:shortVersionString>3.31.0</sparkle:shortVersionString>
+      <pubDate>Thu, 19 Nov 2026 15:03:58 +0000</pubDate>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Feasibility requests from the project</b> — Raise a VDC Space Request from the project, filled from the opportunity and the Cage NRR, as a draft or submitted straight to the hub. The AE is added as a watcher.</li>
+          <li><b>Log mails to Salesforce</b> — A Log to Salesforce switch on the NRR and project review mails logs the mail on the opportunity and puts its PDFs in its Files.</li>
+          <li><b>Custom racks</b> — Racks that aren&#x27;t in the price list go into the Cage NRR with model, quantity, cost and the vendor quote, like custom PDUs.</li>
+          <li><b>Wiki in the sidebar</b> — Wiki, above Send Feedback, opens the SE-Tools guides on Confluence, with a step-by-step guide for every tool.</li>
+          <li><b>Product names in the NRR</b> — Supplied racks and PDUs carry their product name in the NRR PDF and mail.</li>
+          <li><b>More in the usage statistics</b> — Shared usage statistics now also count VDC requests, Salesforce logs and opportunity imports.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://api.github.com/repos/jtisnerat/SE-Tool-Releases/releases/assets/768124845"
+                 sparkle:version="3.31.0"
+                 sparkle:shortVersionString="3.31.0"
+                 sparkle:edSignature="f3kyly8MV9Bw2TUd5asQbg9Ie7q8iYcVd7uaae0epSwVqqksCet42+sW24HuEVoO/KHwi99khhrp5HEP813WCg==" length="17265473"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.30.1</title>
       <sparkle:version>3.30.1</sparkle:version>
       <sparkle:shortVersionString>3.30.1</sparkle:shortVersionString>
